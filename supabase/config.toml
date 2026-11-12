@@ -1,0 +1,2 @@
+[functions.discord-stats]
+verify_jwt = false
